@@ -1,12 +1,37 @@
-# React + Vite
+# Magic Match Memory Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple memory game built with React and Vite. Flip cards to find matching pairs and complete the game in as few turns as possible!
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Built with React 19 and Vite
+- Responsive and clean UI
+- Card flipping animations
+- Tracks number of turns
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+
+2. **Start the development server:**
+   ```sh
+   npm run dev
+   ```
+
+3. **Open** [http://localhost:5173](http://localhost:5173) **in your browser.**
+
+## Credits
+
+This project is based on the video tutorial:
+
+**Build a Memory Game with React #1 - Intro & Setup**  
+by [Net Ninja](https://www.youtube.com/@NetNinja)
+
+Watch the full series on [YouTube](https://www.youtube.com/watch?v=ZCKohZwGZMw&list=PL4cUxeGkcC9iQ7g2eoNXHCJBBBz40S_Lm).
+
+---
+
+Feel free to expand or modify this README as your project grows!
