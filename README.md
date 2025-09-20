@@ -34,4 +34,4 @@ Watch the full series on [YouTube](https://www.youtube.com/watch?v=ZCKohZwGZMw&l
 
 ---
 
-Feel free to expand or modify this README as your project grows!
+For educational purposes only.
